@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "email": "tiencp1234hd@gmail.com",
+            "name": "Nguyen Minh Tien",
+            "role": "Giáo viên",
+            "uid": "5nIYor0cLnS3RF4tupD9ufWkMCi1"
+        },
+        {
+            "email": "xendominer@gmail.com",
+            "name": "Nguyen Minh Tien",
+            "role": "Giáo viên",
+            "uid": "KYE9ckIyG8gxNH67M97Z2IdevKB2"
+        },
+        {
+            "email": "nguyentrong082004@gmail.com",
+            "name": "Nguyễn Tiến Trọng",
+            "role": "Học sinh",
+            "uid": "MsbG5Y2ug3V1NiQJCf2VEX0bIs82"
+        },
+        {
+            "email": "dovanthieu2907@gmail.com",
+            "name": "Nguyen Minh Tien",
+            "role": "Giáo viên",
+            "uid": "Wo7V21VOP3dYHlbZ0Uc3SMUEtbG3",
+            "createdAt": 1744190772855
+        },
+        {
+            "email": "toanle2k17@gmail.com",
+            "fullName": "Lê Toán",
+            "role": "Học sinh"
+        },
+        {
+            "email": "2251172510@e.tlu.edu.vn",
+            "name": "Do Van Thieu",
+            "role": "Học sinh",
+            "uid": "wdUtt2xHJFbbcJem6lXKeVBZNJe2"
+        }
+    ]
+}

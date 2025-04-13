@@ -1,0 +1,35 @@
+[
+    {
+        "address": "123",
+        "classes": [
+            "f0eb68b4-99de-4947-8ae3-91280f6927e3",
+            "fcd1081c-5bc0-4d18-97dc-d72295c068f9"
+        ],
+        "email": "nguyentrong082004@gmail.com",
+        "name": "Nguyễn Tiến Trọng",
+        "phone": "123",
+        "profileImageUrl": "https://i.pravatar.cc/300",
+        "studentsId": "2004",
+        "uid": "MsbG5Y2ug3V1NiQJCf2VEX0bIs82"
+    },
+    {
+        "address": "",
+        "classes": [],
+        "email": "toanle2k17@gmail.com",
+        "name": "",
+        "phone": "",
+        "profileImageUrl": "",
+        "studentsId": "",
+        "uid": "agHBx2RKvgUJf5FtGvlYYQmh5W93"
+    },
+    {
+        "address": "",
+        "classes": [],
+        "email": "2251172510@e.tlu.edu.vn",
+        "name": "Do Van Thieu",
+        "phone": "",
+        "profileImageUrl": "",
+        "studentsId": "",
+        "uid": "wdUtt2xHJFbbcJem6lXKeVBZNJe2"
+    }
+]

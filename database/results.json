@@ -1,0 +1,32 @@
+[
+    {
+        "correctCount": 0,
+        "incorrectCount": 1,
+        "resultId": "a016d1be-9843-48d0-baf2-a63c2012a86e",
+        "score": 0,
+        "skippedCount": 0,
+        "studentId": "MsbG5Y2ug3V1NiQJCf2VEX0bIs82",
+        "testId": "da59b25e-9713-4fdc-963f-5ab7f63ab546",
+        "timeTaken": 4712
+    },
+    {
+        "correctCount": 6,
+        "incorrectCount": 2,
+        "resultId": "b063df58-39d8-46f8-91a3-904acaa5fe4c",
+        "score": 6,
+        "skippedCount": 2,
+        "studentId": "MsbG5Y2ug3V1NiQJCf2VEX0bIs82",
+        "testId": "9e47bf6f-f8be-4796-8032-f774bc4a47b8",
+        "timeTaken": 78783
+    },
+    {
+        "correctCount": 0,
+        "incorrectCount": 4,
+        "resultId": "c8da4232-9e8a-4ddd-9e76-5db00d3b670d",
+        "score": 0,
+        "skippedCount": 1,
+        "studentId": "MsbG5Y2ug3V1NiQJCf2VEX0bIs82",
+        "testId": "0a066b22-8428-4586-b9ec-7eb6d6eec45a",
+        "timeTaken": 11053
+    }
+]
